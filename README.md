@@ -1,2 +1,2 @@
 # hello-world
-A demo repository
+A demo repository used for training purpose.
